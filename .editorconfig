@@ -1,0 +1,9 @@
+# .editorconfig
+root = true
+
+[*]
+indent_style = tab # Use tabs for indentation
+indent_size = tab # Set the size of the indent to match a tab
+charset = utf-8 # Set file encoding to UTF-8
+trim_trailing_whitespace = true # Remove trailing whitespace
+insert_final_newline = true # Ensure the file ends with a newline
